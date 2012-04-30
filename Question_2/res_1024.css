@@ -1,0 +1,69 @@
+/*Coded by MOEEN ARSHAD*/
+
+* {	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 14px;
+	background-image: linear-gradient(bottom, rgb(196,156,75) 26%, rgb(226,235,103) 70%, rgb(245,187,12) 85%);
+	background-image: -o-linear-gradient(bottom, rgb(196,156,75) 26%, rgb(226,235,103) 70%, rgb(245,187,12) 85%);
+	background-image: -moz-linear-gradient(bottom, rgb(196,156,75) 26%, rgb(226,235,103) 70%, rgb(245,187,12) 85%);
+	background-image: -webkit-linear-gradient(bottom, rgb(196,156,75) 26%, rgb(226,235,103) 70%, rgb(245,187,12) 85%);
+	background-image: -ms-linear-gradient(bottom, rgb(196,156,75) 26%, rgb(226,235,103) 70%, rgb(245,187,12) 85%);
+
+
+
+}
+
+	#top_region{
+		text-align:center;
+		text-transform:uppercase;
+		font-style:inherit;
+		font-weight:bold;
+		font-size:18px;
+		background-color: #FF6633;
+		height: 10%;
+		padding: 0.5%;
+		margin: 0.5%;
+		
+	}
+	
+	#left_region{
+		text-align:center;
+		float: left;
+		width: 20%;
+		height: 80%;
+		background-color: #FF0000;
+		padding: 0.5%;
+		margin: 0 0.5% 0.5% 0.5%;
+
+	}
+	#center_region{
+		text-align:center;
+		background-color: #FFCC33;
+		padding: 0.5%;
+		margin: 0 25% 1% 25%;
+	}
+	
+	#right_region{
+		text-align:center;
+		float: right;
+		width: 20%;
+		height: 80%;
+		background-color:#FF0000;
+		padding: 0.5%;
+		margin: 0 0.5% 0.5% 0.5%;
+		
+	}
+
+	#bottom_region{
+		text-align:center;
+		text-decoration:blink;
+		background-color:#990000;
+		padding: 0.5%;
+		margin: 0 0.5% 0 0.5%;
+
+	}
+	
+	

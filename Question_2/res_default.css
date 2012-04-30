@@ -1,0 +1,62 @@
+/*Coded by MOEEN ARSHAD*/
+
+* {	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #3BD11E;
+}
+
+	#top_region{
+		text-align:center;
+		background-color: #524F16;
+		color:white;
+		padding: 0.5%;
+		margin: 0.5%;
+		
+	}
+	
+	#left_region{
+		text-align:center;
+		float: left;
+		width: 12.2%;
+		background-color: lightgreen;
+		padding: 0.5%;
+		margin: 0 0.5% 0.5% 0.5%;
+		/*
+		border-width: 0 3px 3px 0;
+		border-color: #AAAAAA;
+		border-style: solid;
+		*/
+	}
+	#center_region{
+		text-align:center;
+		background-color: #BBFC0A;
+		padding: 0.5%;
+		margin: 0 14.5% 0.5% 14.5%;
+	}
+	
+	#right_region{
+		text-align:center;
+		float: right;
+		width: 12.2%;
+		background-color:lightgreen;
+		padding: 0.5%;
+		margin: 0 0.5% 0.5% 0.5%;
+		
+		/*border-width: 0 3px 3px 0;
+		border-color: #AAAAAA;
+		border-style: solid; */
+	}
+
+	#bottom_region{
+		text-align:center;
+		background-color:#114517;
+		color: white;
+		padding: 0.5%;
+		margin: 0 0.5% 0 0.5%;
+	}
+	
+	
